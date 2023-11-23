@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Next JS**
  
- 🌱 I’m currently learning **Redux, Graphql, React Native Expo**
+ 🌱 I’m currently learning **Redux, Graphql, React JS**
 
  💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/HafizMuneeb/HafizMuneeb/issues)**
 
